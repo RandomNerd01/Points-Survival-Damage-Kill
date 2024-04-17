@@ -4,7 +4,7 @@ Gives you experience points based off these 3 factors: Survival+Damage+Kill. To 
 
 
 
-## Video Below Showing Full Website Process
+## Video Below Showing Full Plugin with Leaderboard plugin as well
 
 
 
