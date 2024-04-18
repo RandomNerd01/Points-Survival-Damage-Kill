@@ -3,6 +3,13 @@ Gives you experience points based off these 3 factors: Survival+Damage+Kill. To 
 
 
 
+Edit Config.yml to change point multipliers as well as time you want minigame to go on for.
+
+
+
+![image](https://github.com/Suiron99/Points-Survival-Damage-Kill/assets/142955018/42cec23a-19b3-469a-8131-bbe3bc7b7716)
+
+
 
 ## Video Below Showing Full Plugin with Leaderboard plugin as well
 
