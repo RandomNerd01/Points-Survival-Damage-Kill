@@ -8,6 +8,7 @@
 
 
 ![image](https://github.com/Suiron99/Points-Survival-Damage-Kill/assets/142955018/42cec23a-19b3-469a-8131-bbe3bc7b7716)
+
 Gives you points based off survival, kills, damage. Configurable in config. If you want to disable any one of the 3 simply set the one you want to disable to be 0 in config
 
 
