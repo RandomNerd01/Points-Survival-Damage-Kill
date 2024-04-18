@@ -1,9 +1,9 @@
 # Points-Survival-Damage-Kill
-Gives you experience points based off these 3 factors: Survival+Damage+Kill. To work in conjunction with another one of my plugins called Minecraft-Event-Scoreboard https://github.com/Suiron99/Minecraft-Event-Scoreboard
+1) Gives you experience points based off these 3 factors: Survival+Damage+Kill. To work in conjunction with another one of my plugins called Minecraft-Event-Scoreboard https://github.com/Suiron99/Minecraft-Event-Scoreboard
 
 
 
-Edit Config.yml to change point multipliers as well as time you want minigame to go on for.
+2) Edit Config.yml to change point multipliers as well as time you want minigame to go on for.
 
 
 
