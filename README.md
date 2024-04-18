@@ -1,4 +1,6 @@
 # Points-Survival-Damage-Kill
+
+## What it Does
 1) Gives you experience points based off these 3 factors: Survival+Damage+Kill. To work in conjunction with another one of my plugins called Minecraft-Event-Scoreboard https://github.com/Suiron99/Minecraft-Event-Scoreboard
 
 
@@ -10,6 +12,12 @@
 ![image](https://github.com/Suiron99/Points-Survival-Damage-Kill/assets/142955018/42cec23a-19b3-469a-8131-bbe3bc7b7716)
 
 Gives you points based off survival, kills, damage. Configurable in config. If you want to disable any one of the 3 simply set the one you want to disable to be 0 in config
+
+
+## How to use it in game
+
+1) Use the command '/battle' to start the point acquisition for a period of time
+
 
 
 ## Video Below Showing Full Plugin with Leaderboard plugin as well
