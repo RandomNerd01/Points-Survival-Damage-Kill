@@ -16,6 +16,11 @@ Gives you points based off survival, kills, damage. Configurable in config. If y
 
 ## How to use it in game
 
+
+You have to download my Minecraft-Event-Scoreboard plugin. Then before '/battle', admins have to '/startgame'.
+
+
+
 1) Use the command '/battle' to start the point acquisition for a period of time
 
 
