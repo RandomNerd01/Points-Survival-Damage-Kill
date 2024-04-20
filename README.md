@@ -25,6 +25,15 @@ You have to download my Minecraft-Event-Scoreboard plugin. Then before '/battle'
 
 
 
+
+2) After game timer ends, top 5 players will automatically be shown.
+
+
+
+3) Admins have to use '/main' to add game points to main leaderboard points.
+
+
+
 ## Video Below Showing Full Plugin with Leaderboard plugin as well
 
 
